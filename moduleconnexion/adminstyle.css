@@ -1,0 +1,14 @@
+html{
+    background-color: brown;
+}
+
+.liste{
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-left: 32%;
+    margin-right: 32%;
+}
